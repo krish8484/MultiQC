@@ -1,0 +1,28 @@
+[2020-06-27 18:23:13,020] multiqc                                            [DEBUG  ]  No MultiQC config found: /home/krish8484/MultiQC/multiqc_config.yaml
+[2020-06-27 18:23:13,020] multiqc                                            [DEBUG  ]  No MultiQC config found: /home/krish8484/.multiqc_config.yaml
+[2020-06-27 18:23:13,020] multiqc                                            [DEBUG  ]  No MultiQC config found: multiqc_config.yaml
+[2020-06-27 18:23:13,020] multiqc                                            [DEBUG  ]  Command used: /home/krish8484/miniconda3/bin/multiqc . -m alfa
+[2020-06-27 18:23:14,147] multiqc                                            [DEBUG  ]  Latest MultiQC version is v1.9
+[2020-06-27 18:23:14,148] multiqc                                            [INFO   ]  This is MultiQC v1.10.dev0 (96d0a2f)
+[2020-06-27 18:23:14,148] multiqc                                            [DEBUG  ]  Command     : /home/krish8484/miniconda3/bin/multiqc . -m alfa
+[2020-06-27 18:23:14,148] multiqc                                            [DEBUG  ]  Working dir : /home/krish8484/MultiQC
+[2020-06-27 18:23:14,149] multiqc                                            [INFO   ]  Template    : default
+[2020-06-27 18:23:14,149] multiqc                                            [DEBUG  ]  Running Python 3.7.7 (default, May  7 2020, 21:25:33)  [GCC 7.3.0]
+[2020-06-27 18:23:14,149] multiqc                                            [INFO   ]  Searching   : /home/krish8484/MultiQC
+[2020-06-27 18:23:14,150] multiqc                                            [INFO   ]  Only using modules alfa
+[2020-06-27 18:23:14,150] multiqc                                            [DEBUG  ]  Analysing modules: alfa
+[2020-06-27 18:23:14,150] multiqc                                            [DEBUG  ]  Using temporary directory for creating report: /tmp/tmpjy76m_qr
+[2020-06-27 18:23:14,153] multiqc                                            [DEBUG  ]  Ignored 235 search patterns as didn't match running modules.
+[2020-06-27 18:23:14,153] multiqc                                            [DEBUG  ]  Ignoring directory as matched fn_ignore_dirs: ./multiqc_data
+[2020-06-27 18:23:14,153] multiqc                                            [ERROR  ]  Error: MultiQC is running in source code directory! .
+[2020-06-27 18:23:14,154] multiqc                                            [WARNING]  Please see the docs for how to use MultiQC: https://multiqc.info/docs/#running-multiqc
+[2020-06-27 18:23:14,350] multiqc.plots.bargraph                             [DEBUG  ]  Using matplotlib version 3.2.1
+[2020-06-27 18:23:14,351] multiqc.plots.bargraph                             [WARNING]  Tried to make bar plot, but had no data
+[2020-06-27 18:23:14,351] multiqc.plots.bargraph                             [WARNING]  Tried to make bar plot, but had no data
+[2020-06-27 18:23:14,351] multiqc                                            [INFO   ]  Compressing plot data
+[2020-06-27 18:23:14,352] multiqc                                            [WARNING]  Previous MultiQC output found! Adjusting filenames..
+[2020-06-27 18:23:14,352] multiqc                                            [WARNING]  Use -f or --force to overwrite existing reports instead
+[2020-06-27 18:23:14,352] multiqc                                            [INFO   ]  Report      : multiqc_report_1.html
+[2020-06-27 18:23:14,352] multiqc                                            [INFO   ]  Data        : multiqc_data_1
+[2020-06-27 18:23:14,352] multiqc                                            [DEBUG  ]  Moving data file from '/tmp/tmpjy76m_qr/multiqc_data' to '/home/krish8484/MultiQC/multiqc_data_1'
+[2020-06-27 18:23:14,435] multiqc                                            [INFO   ]  MultiQC complete

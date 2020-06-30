@@ -297,6 +297,9 @@ module_order:
     - qorts:
         module_tag:
             - RNA
+    - alfa:
+        module_tag:
+            - RNA
     - rna_seqc:
         module_tag:
             - RNA
